@@ -1,2 +1,2 @@
 # frontend-mentor-challenge
-implemenntation of fromt end mentor challenge
+implementation of front end mentor challenge
